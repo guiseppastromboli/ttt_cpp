@@ -1,5 +1,5 @@
 # ttt_cpp
-tic tac toe game; not finished yet
+tic tac toe game; absolutely not working yet
 
 what's working:
 

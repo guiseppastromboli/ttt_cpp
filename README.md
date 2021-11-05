@@ -10,3 +10,4 @@ to do:
 
 - fix checking if there's a winner
 - best of 3
+- fix writing over cells already filled

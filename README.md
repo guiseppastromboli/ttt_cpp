@@ -1,5 +1,5 @@
 # ttt_cpp
-tic tac toe game; absolutely not working yet
+tic tac toe game for console; absolutely not working yet
 
 what's working:
 
